@@ -1,9 +1,8 @@
 # Viz Reference
 
-**BBC News**
-**Flourish Studio**
-https://www.bbc.com/news/world-latin-america-52701524
-https://flourish.studio/
+
+[BBC News Coronavirus Animation](https://www.bbc.com/news/world-latin-america-52701524)
+[Flourish Studio](https://flourish.studio/)
 
 **GOV UK Coronavirus Data**
 **Leaflet.js for maps and Chart.js for charts**
