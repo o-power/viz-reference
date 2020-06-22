@@ -9,3 +9,4 @@
 | [John Hopkins Coronavirus Resource Center](https://coronavirus.jhu.edu/data/cumulative-cases) | [Plotly](https://plotly.com/javascript/) | 15th June 2020 |
 | [Covid Exit Strategy](https://www.covidexitstrategy.org/) | [Datawrapper](https://www.datawrapper.de/) | 15th June 2020 |
 | [Irish Times Coronavirus Dashboard](https://www.irishtimes.com/news/health/coronavirus/coronavirus-data-dashboard) | [Datawrapper](https://www.datawrapper.de/) | 22nd June 2020 |
+| [CDC Cases in US](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) | D3.js, [C3.js](https://c3js.org/) | 22nd June 2020 |
